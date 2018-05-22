@@ -1,14 +1,13 @@
 ### Install Ubuntu
-
     16.0.4 recommended
-    
-### Install Cuda
-
+### Install pkgs
     sudo apt-get nvidia-cuda-toolkit
-
-### Install OpenCV
-### Install Spyder
-### Install Tensorflow
+    sudo apt-get install python-opencv
+    sudo apt-get install python-pip
+    sudo apt-get install python-qt5
+    pip install spyder
+    pip install -U tensorflow-gpu
 ### Install SSD
+    
 ### Install OpenAlpr
 
