@@ -9,3 +9,6 @@
 ### Install OpenCV
 ### Install Spyder
 ### Install Tensorflow
+### Install SSD
+### Install OpenAlpr
+
