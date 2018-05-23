@@ -5,6 +5,7 @@
     cuda   
     $ sudo apt-get update
     $ sudo apt-get install nvidia-cuda-toolkit
+    $ sudo apt install nvidia-cuda-dev
     $ sudo apt-get upgrade
    
     python-repos
