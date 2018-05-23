@@ -1,2 +1,2 @@
-# shortcut4demo
-to provide a shortcut a.k.a "one-click key" for demonstrating skills
+- Occasionally, to restart is a better choice than to repair.
+- To repair non-steady system doubles the way.
