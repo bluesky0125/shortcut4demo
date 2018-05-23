@@ -23,7 +23,9 @@
 
    - [SSD]()
    - [OpenAlpr]()
-   - []()
+   - [face_recognition](https://github.com/ageitgey/face_recognition)
+   
+    pip install face_recognition
    
 ### Installation Validation
     $ nvcc --version
