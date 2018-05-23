@@ -16,6 +16,15 @@
     $ sudo apt-get install python-pyqt5
     $ sudo pip install spyder
     
+    pip
+    $ wget https://bootstrap.pypa.io/get-pip.py
+    $ sudo python get-pip.py
+    
+    dlib
+    $ sudo apt-get install build-essential cmake
+    $ sudo apt-get install libgtk-3-dev
+    $ sudo apt-get install libboost-all-dev
+    
     tensorflow
     $ pip install -U tensorflow-gpu==1.3.0
     
