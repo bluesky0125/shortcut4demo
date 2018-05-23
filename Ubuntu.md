@@ -22,16 +22,22 @@
     $ sudo pip install numpy scipy scikit-image dlib
     
     dlib-build
-    wget http://dlib.net/files/dlib-19.6.tar.bz2
-    tar xvf dlib-19.6.tar.bz2
-    cd dlib-19.6/
-    mkdir build
-    cd build
-    cmake ..
-    cmake --build . --config Release
-    sudo make install
-    sudo ldconfig
-    cd ..
+    $ wget http://dlib.net/files/dlib-19.6.tar.bz2
+    $ tar xvf dlib-19.6.tar.bz2
+    $ cd dlib-19.6/
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ cmake --build . --config Release
+    $ sudo make install
+    $ sudo ldconfig
+    $ cd ..
+    $ cd dlib-19.6
+    $ python setup.py install
+    $ rm -rf dist
+    $ rm -rf tool/python/build
+    $ rm python_examples/dlib.so
+    $ pip install dlib
 
     tensorflow
     $ pip install -U tensorflow-gpu==1.3.0
