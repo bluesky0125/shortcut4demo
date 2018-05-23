@@ -1,5 +1,5 @@
 ### OS
-    16.0.4 recommended
+    Ubuntu 16.0.4, Cuda8.0, CuDnn6.0, tensorflow1.3.0, python2.7, pyqt5, spyder, opencv2.4.9.1 ...
 ### Packages
     $ sudo apt-get update
     
