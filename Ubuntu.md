@@ -46,6 +46,16 @@
     tensorflow
     $ pip install -U tensorflow-gpu==1.3.0
     
+    enum
+    $ pip install pyOpenSSL service_identity enum
+    
+    pyqt5
+    $ sudo apt install python-pyqt5
+    
+    spyder
+    $ sudo pip install spyder
+    
+    
 ### Code-SSD/OpenAlpr...
 
    - [SSD]()
