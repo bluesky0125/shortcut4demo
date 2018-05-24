@@ -62,7 +62,7 @@
    - [OpenAlpr]()
    - [face_recognition](https://github.com/ageitgey/face_recognition)
    
-    pip install face_recognition
+    $ sudo pip install face_recognition==1.2.2
    
 ### Installation Validation
     $ nvcc --version
