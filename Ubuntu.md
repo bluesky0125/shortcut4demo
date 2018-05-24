@@ -6,8 +6,11 @@
     $ sudo apt-get update
     $ sudo apt-get install nvidia-cuda-toolkit
     $ sudo apt install nvidia-cuda-dev
+    $ sudo apt-get -y install cuda-8-0
     $ sudo apt-get upgrade
-   
+    $ vim ~/.bashrc
+    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64/
+       
     python-repos
     $ sudo apt-get install python-opencv
     $ sudo apt-get install python-pip
