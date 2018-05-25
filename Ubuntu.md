@@ -51,6 +51,8 @@
     
     pyqt5
     $ sudo apt install python-pyqt5
+    $ sudo apt install python-pyqt5.qtsvg
+    $ sudo apt install python-pyqt5.qtwebkit
     
     opencv
     $ sudo apt-get update
