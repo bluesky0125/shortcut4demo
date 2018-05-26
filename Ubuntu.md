@@ -26,6 +26,7 @@
     $ sudo pip install numpy scipy scikit-image dlib
     
     dlib-build
+    $ pip install cmake
     $ wget http://dlib.net/files/dlib-19.12.tar.bz2
     $ tar xvf dlib-19.12.tar.bz2
     #$ cd dlib-19.12/
