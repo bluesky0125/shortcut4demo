@@ -1,2 +1,2 @@
 - Occasionally, to restart is a better choice than to repair.
-- To repair non-steady system doubles the way.
+- To repair non-steady system will take more time.
